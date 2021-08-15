@@ -3,9 +3,15 @@
 EduCare test
 
 Login Screen:
+
+
 <img src="https://user-images.githubusercontent.com/61827071/129493911-0b250575-cb7d-4007-9e94-f5f3fea13630.png" width="400" >
 
+
+
 Home Screen:
+
+
 <img src="https://user-images.githubusercontent.com/61827071/129493922-19dcb3eb-a449-44b4-91c5-04b52d3f3aaf.png" width="400" >
 
 
